@@ -1,0 +1,7 @@
+Atividade 1
+*Desafio Git/Github
+-Criar um repositório no github
+-Editar README direto no github
+-Clonar o repositório para minha maquina (git clone + url do repositório)
+-Adicionar pasta no repositório
+-Inserir arquivos
